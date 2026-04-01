@@ -1,0 +1,36 @@
+# =========================
+# ENV FILES (IMPORTANT)
+# =========================
+.env
+.env.*
+
+# =========================
+# PYTHON (BACKEND)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# SQLite DB (optional ignore)
+crm.db
+
+# =========================
+# NODE (FRONTEND)
+# =========================
+node_modules/
+build/
+dist/
+
+# =========================
+# SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LOG FILES
+# =========================
+*.log
