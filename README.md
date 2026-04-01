@@ -1,6 +1,4 @@
 # AI CRM Application - HCP Interaction Logger
-**Round 1 - Technical Assessment**
-
 ---
 
 # Project Overview
