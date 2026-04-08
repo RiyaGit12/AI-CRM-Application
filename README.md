@@ -58,7 +58,7 @@ Users can modify specific fields by simply giving correction instructions in nat
 
 The AI suggests intelligent follow-up actions based on the interaction details.
 
-![Follow-up](screenshots/follow_up_action .png)
+![Follow-up](screenshots/follow_up_action.png)
 
 ---
 
