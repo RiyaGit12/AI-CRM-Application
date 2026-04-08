@@ -27,6 +27,39 @@ The following technologies were used to build this project:
 
 > Note: Initially, the requirement mentioned using `gemma2-9b-it`, but since it has been deprecated by Groq, I used `llama-3.3-70b-versatile` as a replacement.
 
+
+## 📸 Application Outputs
+
+### 🖥️ User Interface
+
+The application provides a clean and user-friendly interface with a form on the left and an AI assistant chat on the right.
+
+![UI](screenshots/ui.png)
+
+---
+
+### 🤖 AI Auto Form Filling
+
+The AI assistant automatically extracts structured data from natural language input and fills the form fields.
+
+![AI Auto Fill](screenshots/AI_Auto_Fill.png)
+
+---
+
+### ✏️ Edit Interaction
+
+Users can modify specific fields by simply giving correction instructions in natural language.
+
+![Edit](screenshots/Edit.png)
+
+---
+
+### 📌 Follow-up Suggestions
+
+The AI suggests intelligent follow-up actions based on the interaction details.
+
+![Follow-up](screenshots/follow_up_action .png)
+
 ---
 
 # AI Agent (LangGraph) Working
