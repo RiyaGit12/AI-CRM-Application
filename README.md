@@ -25,7 +25,8 @@ The following technologies were used to build this project:
 * **Database:** SQLite using SQLAlchemy
 * **Font:** Google Inter
 
-> Note: Initially, the requirement mentioned using `gemma2-9b-it`, but since it has been deprecated by Groq, I used `llama-3.3-70b-versatile` as a replacement.
+> Note:
+Initially, the requirement mentioned using `gemma2-9b-it`, but since it has been deprecated by Groq, I used `llama-3.3-70b-versatile` as a replacement.
 
 
 ## 📸 Application Outputs
